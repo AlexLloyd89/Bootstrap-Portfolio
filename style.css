@@ -1,0 +1,30 @@
+.navbar-brand{
+    background-color: #4aaaa5;
+    color: white !important;
+    font-size: 26px;
+}
+
+.page-header {
+    color: #4aaaa5
+}
+
+body {
+    background-image: url('dark-triangles.png');
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+           }
+
+.main-content {
+    background-color: white;
+    
+}
+
+footer {
+        border-top: 5px solid #4aaaa5;
+        width: 100%;
+        background-color: #666666;
+        color: white;
+        text-align: center;
+        padding: 15px 0px 15px 0px
+       }
