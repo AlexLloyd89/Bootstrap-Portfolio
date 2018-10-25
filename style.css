@@ -61,3 +61,64 @@ text-align: center;
 .holdme:hover .overlay {
     opacity:1;
 }
+
+/* Contact Me Page */
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 960px;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.rightTab {
+  display: inline-block;
+  text-align: left;
+  width: 900px;
+  vertical-align: middle;
+}
+
+.input-field {
+  height: 20px;
+  width: 900px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+
+.message-input{
+    height: 100px;
+    width: 900px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid #c0c0c0;
+    border-radius: 2px;
+}
+#submit {
+  position: relative;
+  bottom: 10px;
+  background-color: #59ace0;
+  border-radius: 4px;
+  color: white;
+  font-size: 1em;
+  height: 40px;
+  width: 96px;
+  margin: 10px;
+  border: 0px solid;
+  text-underline-position: 
+}
+.labels {
+    width: 100%;
+    text-align: left;
+  }
+  .rightTab {
+    width: 100%;
+    float: left;
+  }
+  .input-field {
+    width: 900px;
+
+}
