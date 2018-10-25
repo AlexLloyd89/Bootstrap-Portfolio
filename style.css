@@ -39,6 +39,7 @@ footer {
     margin: auto;
     display: block;
     padding: 10px;
+}
    
   .overlay {
   position: absolute; 
@@ -53,6 +54,8 @@ footer {
   font-size: 20px;
   padding: 20px;
   text-align: center;
+    }
       
  .holdme{
   position: relative;
+      }
