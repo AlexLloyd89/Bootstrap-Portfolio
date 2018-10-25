@@ -58,6 +58,6 @@ text-align: center;
   position: relative;
       }
 
-.holdme:hover overlay {
+.holdme:hover .overlay {
     opacity:1;
 }
