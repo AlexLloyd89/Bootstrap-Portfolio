@@ -1,5 +1,9 @@
 /* Content Across All Pages */
 
+.container{
+    border: 2px solid whitesmoke;
+}
+
 .navbar-brand{
     background-color: #4aaaa5;
     color: white !important;
@@ -122,3 +126,4 @@ text-align: center;
     width: 900px;
 
 }
+
