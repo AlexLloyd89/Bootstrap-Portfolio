@@ -34,7 +34,7 @@ footer {
 /* Portfolio */
 
 .portfolio {
-    width: 33%;
+    max-width: 33%;
     margin: auto;
     display: block;
     padding: 10px;
