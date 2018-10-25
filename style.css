@@ -1,3 +1,5 @@
+/* Content Across All Pages */
+
 .navbar-brand{
     background-color: #4aaaa5;
     color: white !important;
@@ -28,3 +30,11 @@ footer {
         text-align: center;
         padding: 15px 0px 15px 0px
        }
+
+/* Portfolio */
+
+.portfolio {
+    width: 33%;
+    margin: auto;
+    display: block;
+    padding: 10px;
