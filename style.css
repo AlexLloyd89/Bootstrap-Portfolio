@@ -35,8 +35,7 @@ body {
     background-image: url('dark-triangles.png');
     margin-left: auto;
     margin-right: auto;
-    border: 2px solid darkslategray;
-           }
+               }
 
 .main-content {
     background-color: white;
