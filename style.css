@@ -1,11 +1,30 @@
 /* Content Across All Pages */
+.ahead {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
 
+.subhead {
+    float: right;
+    margin-top: 25px;
+}
+
+.navbar {
+    border-bottom: 2px solid #cccccc;
+}
 
 .navbar-brand{
     background-color: #4aaaa5;
     color: white !important;
-    font-size: 26px;
-    padding: 15px;
+    font-size: 30px;
+    float: left;
+    width: 203px;
+    text-align: center;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    line-height: 90px;
+    font-weight: 700;
 }
 
 .page-header {
@@ -22,7 +41,9 @@ body {
 
 .main-content {
     background-color: white;
-    
+    padding-top: 50px;
+    margin-top: 50px
+   
 }
 
 footer {
