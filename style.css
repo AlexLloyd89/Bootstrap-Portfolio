@@ -1,4 +1,9 @@
 /* Content Across All Pages */
+
+.container {
+    max-width: 960px;
+}
+
 .ahead {
     max-width: 960px;
     width: 100%;
