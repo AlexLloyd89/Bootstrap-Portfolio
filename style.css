@@ -50,7 +50,11 @@ footer {
         background-color: #666666;
         color: white;
         text-align: center;
-        padding: 15px 0px 15px 0px
+        padding: 15px 0px 15px 0px;
+        position: absolute;
+        bottom: 0;
+        height: 60px;
+                 
        }
 
 /* Portfolio */
